@@ -108,4 +108,7 @@ button {
   display: block;
   margin: 0 0 0 auto;
 }
+.send {
+  color: white;
+}
 </style>
